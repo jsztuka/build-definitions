@@ -21,3 +21,4 @@ resources:
 - verify-enterprise-contract.yaml
 - sast-go.yaml
 - sast-java-sec-check.yaml
+- clamav-scan.yaml
